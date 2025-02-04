@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="..\Source\Game\source\GameWorld.cpp" />
+    <ClCompile Include="..\Source\Game\source\main.cpp" />
+    <ClCompile Include="..\Source\Game\source\ScriptGraphEditor\RegisterExternalNodes.cpp">
+      <Filter>ScriptGraph</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\Game\source\ScriptGraphEditor\ScriptGraphEditor.cpp">
+      <Filter>ScriptGraph</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\Game\source\GraphEditorBase.cpp" />
+    <ClCompile Include="..\Source\Game\source\GameObject.cpp" />
+    <ClCompile Include="..\Source\Game\source\GameObjectRegistery.cpp" />
+    <ClCompile Include="..\Source\Game\source\Hitbox.cpp" />
+    <ClCompile Include="..\Source\Game\source\AABB2D.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\Source\Game\source\GameWorld.h" />
+    <ClInclude Include="..\Source\Game\source\ScriptGraphEditor\Event_Icon.h">
+      <Filter>ScriptGraph</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Source\Game\source\ScriptGraphEditor\Function_Icon.h">
+      <Filter>ScriptGraph</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Source\Game\source\ScriptGraphEditor\GetGradient.h">
+      <Filter>ScriptGraph</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Source\Game\source\ScriptGraphEditor\Graph_Hazard.h">
+      <Filter>ScriptGraph</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Source\Game\source\ScriptGraphEditor\RegisterExternalNodes.h">
+      <Filter>ScriptGraph</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Source\Game\source\ScriptGraphEditor\RegisterExternalTypes.h">
+      <Filter>ScriptGraph</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Source\Game\source\ScriptGraphEditor\ScriptGraphEditor.h">
+      <Filter>ScriptGraph</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Source\Game\source\ScriptGraphEditor\ScriptGraphNodeGradient.h">
+      <Filter>ScriptGraph</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Source\Game\source\GraphEditorBase.h" />
+    <ClInclude Include="..\Source\Game\source\GameObject.h" />
+    <ClInclude Include="..\Source\Game\source\GameObjectRegistery.h" />
+    <ClInclude Include="..\Source\Game\source\GlobalGameObjectID.h" />
+    <ClInclude Include="..\Source\Game\source\Hitbox.h" />
+    <ClInclude Include="..\Source\Game\source\AABB2D.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="ScriptGraph">
+      <UniqueIdentifier>{b57664f8-9aa5-4fb1-8064-ee3a89f95976}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

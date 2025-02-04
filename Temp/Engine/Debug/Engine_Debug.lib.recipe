@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs />
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\minhp\Downloads\Scripting U4\Scripting U3\Bin\Shaders\AnimatedPbrModelShaderVS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\minhp\Downloads\Scripting U4\Scripting U3\Bin\Shaders\PbrModelShaderPS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\minhp\Downloads\Scripting U4\Scripting U3\Bin\Shaders\PbrModelShaderVs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\minhp\Downloads\Scripting U4\Scripting U3\Bin\Shaders\PostprocessCopyPS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\minhp\Downloads\Scripting U4\Scripting U3\Bin\Shaders\PostprocessGaussianH_PS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\minhp\Downloads\Scripting U4\Scripting U3\Bin\Shaders\PostprocessGaussianV_PS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\minhp\Downloads\Scripting U4\Scripting U3\Bin\Shaders\PostprocessPixelate_PS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\minhp\Downloads\Scripting U4\Scripting U3\Bin\Shaders\PostprocessTonemapPS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\minhp\Downloads\Scripting U4\Scripting U3\Bin\Shaders\PostprocessVS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\minhp\Downloads\Scripting U4\Scripting U3\Bin\Shaders\animated_model_shader_VS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\minhp\Downloads\Scripting U4\Scripting U3\Bin\Shaders\custom_shape_PS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\minhp\Downloads\Scripting U4\Scripting U3\Bin\Shaders\custom_shape_VS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\minhp\Downloads\Scripting U4\Scripting U3\Bin\Shaders\instanced_model_shader_PS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\minhp\Downloads\Scripting U4\Scripting U3\Bin\Shaders\instanced_model_shader_VS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\minhp\Downloads\Scripting U4\Scripting U3\Bin\Shaders\instanced_sprite_shader_VS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\minhp\Downloads\Scripting U4\Scripting U3\Bin\Shaders\lineshader_PS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\minhp\Downloads\Scripting U4\Scripting U3\Bin\Shaders\lineshader_VS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\minhp\Downloads\Scripting U4\Scripting U3\Bin\Shaders\model_shader_PS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\minhp\Downloads\Scripting U4\Scripting U3\Bin\Shaders\model_shader_VS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\minhp\Downloads\Scripting U4\Scripting U3\Bin\Shaders\sprite_shader_PS.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
